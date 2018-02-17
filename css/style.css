@@ -2,7 +2,7 @@ html{height: 100%;
   width: 100%;
   border: 10px solid #A44EFF;
 }
-
+*{transition: all .1s ease-in;}
 body {
 background: blue;
 color: black;
